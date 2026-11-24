@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 下载 IVMate
+    url: https://rocketman.top/download/
+    about: 获取 macOS（Apple Silicon / Intel）与 Windows 客户端
+  - name: 使用教程与常见问题
+    url: https://rocketman.top/guide/
+    about: 先查看安装、授权、快捷键和排查说明

@@ -1,0 +1,20 @@
+# Public showcase allowlist. Do not add app source or private files here.
+*
+!.gitignore
+!README.md
+!README.en.md
+!NOTICE.md
+!docs/
+!docs/FAQ.md
+!assets/
+!assets/README.md
+!assets/ivmate.png
+!assets/screenshots/
+!assets/screenshots/home.png
+!assets/screenshots/interview-answer.png
+!assets/screenshots/records.png
+!.github/
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/bug_report.md
+!.github/ISSUE_TEMPLATE/feature_request.md
+!.github/ISSUE_TEMPLATE/config.yml
